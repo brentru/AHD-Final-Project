@@ -318,6 +318,7 @@ CONV8: Hex2LED port map (CLK => CLK100, X => HexVal(3 downto 0), Y => NAME(7));
 
 
 -- Output Assignment from TL
+
 output <= result;
 
 
